@@ -1,0 +1,46 @@
+body{
+    background: #21d8f9cd;
+
+}
+
+h1{
+    /*Define el tamaño del texto*/
+ font-size: 50px; ; 
+ color: #1c0a24; 
+ text-align: left;
+ font: weight 100px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-transform: uppercase;
+}
+
+
+h2{
+    background: #122c1d;
+    color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+img{
+    border: 6px solid #ffffff;
+    border-radius: 50px;
+
+
+
+
+}
+
+
+button{
+
+    background:url("../js/funtions.js");
+    background-color: #e8db305e;
+    padding: 15px;
+    margin-top: 15px;
+    display: flex;
+    margin-inline: 400px;
+    overflow: hidden;
+    
+   
+}
